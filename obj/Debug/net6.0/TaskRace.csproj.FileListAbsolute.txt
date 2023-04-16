@@ -1,0 +1,15 @@
+C:\Users\missh\source\repos\CIT195\TaskRace\TaskRace\bin\Debug\net6.0\TaskRace.exe
+C:\Users\missh\source\repos\CIT195\TaskRace\TaskRace\bin\Debug\net6.0\TaskRace.deps.json
+C:\Users\missh\source\repos\CIT195\TaskRace\TaskRace\bin\Debug\net6.0\TaskRace.runtimeconfig.json
+C:\Users\missh\source\repos\CIT195\TaskRace\TaskRace\bin\Debug\net6.0\TaskRace.dll
+C:\Users\missh\source\repos\CIT195\TaskRace\TaskRace\bin\Debug\net6.0\TaskRace.pdb
+C:\Users\missh\source\repos\CIT195\TaskRace\TaskRace\obj\Debug\net6.0\TaskRace.csproj.AssemblyReference.cache
+C:\Users\missh\source\repos\CIT195\TaskRace\TaskRace\obj\Debug\net6.0\TaskRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missh\source\repos\CIT195\TaskRace\TaskRace\obj\Debug\net6.0\TaskRace.AssemblyInfoInputs.cache
+C:\Users\missh\source\repos\CIT195\TaskRace\TaskRace\obj\Debug\net6.0\TaskRace.AssemblyInfo.cs
+C:\Users\missh\source\repos\CIT195\TaskRace\TaskRace\obj\Debug\net6.0\TaskRace.csproj.CoreCompileInputs.cache
+C:\Users\missh\source\repos\CIT195\TaskRace\TaskRace\obj\Debug\net6.0\TaskRace.dll
+C:\Users\missh\source\repos\CIT195\TaskRace\TaskRace\obj\Debug\net6.0\refint\TaskRace.dll
+C:\Users\missh\source\repos\CIT195\TaskRace\TaskRace\obj\Debug\net6.0\TaskRace.pdb
+C:\Users\missh\source\repos\CIT195\TaskRace\TaskRace\obj\Debug\net6.0\TaskRace.genruntimeconfig.cache
+C:\Users\missh\source\repos\CIT195\TaskRace\TaskRace\obj\Debug\net6.0\ref\TaskRace.dll
